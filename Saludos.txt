@@ -1,0 +1,3 @@
+Este es el archivo de saludos
+Hola, ¿cómo estás?
+Bonjour, comment ça va?
